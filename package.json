@@ -1,0 +1,14 @@
+{
+  "name": "course-grapqh-edteam",
+  "version": "1.0.0",
+  "description": "the course of edTeamGraphQl",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "graph1l"
+  ],
+  "author": "Ramses",
+  "license": "MIT"
+}
